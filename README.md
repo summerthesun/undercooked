@@ -11,12 +11,12 @@ No libraries need to be installed to run this game.
 
 Please note! This is a randomly generating maze that on slim occasions will trap the user within a portion of the screen. When starting the game, first check that the map is usable before playing and that all food source bins are present, otherwise run the code again. 
 
-Shortcuts:
+Not-so-secret Shortcuts:
 
-Press 's' to restart the timer
-Press 'p' to pause the game
-Press 'f' to generate a bun at a random position on the screen
-Press 'g' to generate a wiener at a random position on the screen
+Press 's' to restart the timer.
+Press 'p' to pause the game.
+Press 'f' to generate a bun at a random position on the screen.
+Press 'g' to generate a wiener at a random position on the screen.
 
 Thank you for reading! Have fun.
 
